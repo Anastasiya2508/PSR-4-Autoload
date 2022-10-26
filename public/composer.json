@@ -1,0 +1,15 @@
+{
+    "name": "an/quetepsr4",
+    "description": "Quete PSR4",
+    "type": "project",
+    "autoload": {
+        "psr-4": {}
+    },
+    "authors": [
+        {
+            "name": "Anafer",
+            "email": "anastasiya.ustych@gmail.com"
+        }
+    ],
+    "require": {}
+}
